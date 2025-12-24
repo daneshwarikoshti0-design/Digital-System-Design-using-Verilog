@@ -10,3 +10,7 @@ To impart the concepts of Verilog HDL-data flow and behavioural models for the d
 7) To realize using Verilog Behavioral description:
   Flip-flops: a)JK type b)SR type c)T type and d)D type
 8) To realize Counters-up/down (BCD and binary)using Verilog Behavioral description. 
+9) Verilog Program to interface a Stepper motor to the FPGA/CPLD and rotate the motor
+   in the specified direction (by N steps).
+10) Verilog programs to interface Switches and LEDs to the FPGA/CPLD and demonstrate
+   its working. 
