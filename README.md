@@ -14,3 +14,10 @@ To impart the concepts of Verilog HDL-data flow and behavioural models for the d
    in the specified direction (by N steps).
 10) Verilog programs to interface Switches and LEDs to the FPGA/CPLD and demonstrate
    its working. 
+Course outcomes (Course Skill Set):At the end of this we will be able to:
+1) Simplify Boolean functions using K-map and Quine-McCluskey minimization technique.
+2) Analyze and design for combinational logic circuits.
+3) Analyze the concepts of Flip Flops(SR, D,T and JK) and to design the synchronous sequential
+circuits using Flip Flops.
+4) Model Combinational circuits (adders, subtractors, multiplexers) and sequential circuits using
+Verilog descriptions.
